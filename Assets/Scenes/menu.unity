@@ -1205,6 +1205,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerName: {fileID: 598409870}
+  bestScore: {fileID: 1345845876}
 --- !u!1 &2056915428
 GameObject:
   m_ObjectHideFlags: 0
